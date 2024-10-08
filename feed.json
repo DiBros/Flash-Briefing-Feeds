@@ -1,7 +1,16 @@
-{
+[
+  {
   "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6m",
   "updateDate": "2024-10-08T00:00:00.0Z",
   "titleText": "Amazon Developer Blog, week in review May 23rd",
   "mainText": "Meet Echosim. A new online community tool for developers that simulates the look and feel of an Amazon Echo.",
   "redirectionUrl": "https://developer.amazon.com/public/community/blog"
-}
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
+    "updateDate": "2024-10-08T01:00:00.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "This channel has multiple TTS JSON items. This is the second item.",
+    "redirectionUrl": "https://www.amazon.com"
+  }
+]  
